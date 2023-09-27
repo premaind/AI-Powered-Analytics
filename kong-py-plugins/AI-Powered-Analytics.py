@@ -65,4 +65,4 @@ class Plugin(object):
 # add below section to allow this plugin optionally be running in a dedicated process
 if __name__ == "__main__":
     from kong_pdk.cli import start_dedicated_server
-    start_dedicated_server("py-ai-analytics", Plugin, version, priority, Schema)
+    start_dedicated_server("AI-Powered-Analytics", Plugin, version, priority, Schema)
