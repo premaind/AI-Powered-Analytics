@@ -1,6 +1,6 @@
 # AI-Powered-Analytics (AI Powered Python Kong Plugin)
 ## Overview
-This is a AI Powered kong plugin developed using python which uses NLP and semantic analyzer to produce report form unformatted and ustructured data.
+This is a AI Powered kong plugin developed using python which uses NLP and semantic analyzer to produce report from unformatted and ustructured data.
 It uses open AI Key , NLP and Machine learning Algorithm to analyse the input data and produces human like response.
 
 ## Tested in Kong Release
