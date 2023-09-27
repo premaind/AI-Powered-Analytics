@@ -70,12 +70,10 @@ MODEL_NAME is the AI Model name
 
 ## Parameters
 
-| FORM PARAMETER	     														| DESCRIPTION										  													|
-| ----------- 																		| -----------																								|							|
-| ROUTE<br>Type:string   											|  The name of the Route  the plugin targets.									|
-| config.OPENAI_API_KEY<br>Type:string              |  Accepts the openAI Key |
-| config.MODEL_NAME<br>Type:string              |  AI Model Name|
-
+| FORM PARAMETER      | DESCRIPTION |
+| ----------- | ----------- |
+| ROUTE Type:string      | The name of the Route  the plugin targets.       |
+| config.MODEL_NAME Type:string   | AI Model Name        |
 
 
 
