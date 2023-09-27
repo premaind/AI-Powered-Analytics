@@ -78,4 +78,4 @@ MODEL_NAME is the AI Model name
 
 
 ## Contributors
-Design & Developed By : Satyajit.Sial@VERIFONE.com ,Prema.Namasivayam@VERIFONE.com, dhaval.mavani@verifone.com
+Design & Developed By : Satyajit.Sial@VERIFONE.com ,preman1@verifone.com, dhavalm1@verifone.com
